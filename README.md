@@ -1,11 +1,13 @@
 <div align="center">
 
-# Hi 👋, I'm [Jamie King] ([she/her])
+# Hi 👋, I'm Jamie King
 
-![American Express](https://img.shields.io/badge/American%20Express-Staff%20Engineer-gray.svg?logo=americanexpress&logoColor=white&labelColor=2E77BC)
+![American Express][b-role]
+[![she/her][b-pronouns]][pronouns]
 
 ### Connect with me
 
+[![jamieking.me][b-about]][about]
 [![Email hello@jamieking.me][b-email]][email]
 [![Twitter: @10xLaCroixDrnkr][b-twitter]][twitter]<br />
 [![LinkedIn: @jking90][b-linkedin]][linkedin]
@@ -34,9 +36,7 @@
 | [Cleaner Unit Tests with Custom Matchers](https://10x.la/matchers) |
 |:---|
 | Using custom matchers to avoid repetitive<br/>and ambiguous assertions.<br/>**Published** Jan 9, 2023 • _8 min read_ |
-
-| [On the Importance of Commit Messages](https://10x.la/commits) |
-|:---|
+| **[On the Importance of Commit Messages](https://10x.la/commits)** |
 | A little time now can save a lot down the road.<br/>**Published** Dec 10, 2018 • _6 min read_ |
 
 ### Tech Stack
@@ -76,18 +76,11 @@
 
 ### Stats
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=10xLaCroixDrinker&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&show_icons=true&hide_title=true&theme=omni"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=10xLaCroixDrinker&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&show_icons=true&hide_title=true&theme=swift"
-    media="(prefers-color-scheme: light)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=10xLaCroixDrinker&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&show_icons=true&hide_title=true&theme=swift" alt="Jamie King's GitHub stats" />
-</picture>
-<br/><br/>
+[![Jamie King's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=10xLaCroixDrinker&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&show_icons=true&hide_title=true&theme=omni#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Jamie King's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=10xLaCroixDrinker&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&show_icons=true&hide_title=true&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+<br/>
+
 <picture>
   <source
     srcset="https://github-profile-trophy.vercel.app/?username=10xlacroixdrinker&margin-w=15&margin-h=15&column=-1&theme=gruvbox"
@@ -102,8 +95,13 @@
 
 </div>
 
+<!-- bio badges -->
+[b-role]: https://img.shields.io/badge/%20-Staff%20Engineer-gray.svg?logo=americanexpress&logoColor=white&labelColor=2E77BC
+[b-pronouns]: https://img.shields.io/badge/she/her-gray.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMTIwMHB0IiBoZWlnaHQ9IjEyMDBwdCIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTIwMCAxMjAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogPHBhdGggZD0ibTEwNjkuMiAzNC44MDFjLTQuODAwOC0yLjM5ODQtMTAuODAxLTMuNjAxNi0xNS42MDItMy42MDE2aC0yNTYuOHY4NGgxNTQuOGwtMTY4IDE2OGMtNTEuNjAyLTM2LTExNS4yLTU3LjYwMi0xODMuNi01Ny42MDItNzAuODAxIDAtMTM2LjggMjIuODAxLTE4OS42IDYyLjM5OGwtMzcuMTk5LTM1Ljk5NiA2Mi4zOTgtNjIuMzk4LTYwLTYwLTYxLjE5OSA2Mi4zOTgtNzYuODAxLTc2LjgwMWg5MHYtODRoLTE5MmMtNiAwLTEwLjgwMSAxLjE5OTItMTUuNjAyIDMuNjAxNi0xNS41OTggNy4xOTkyLTI2LjM5NSAyMS41OTgtMjYuMzk1IDM4LjM5OHYxOTJoODR2LTkwbDc2LjgwMSA3Ni44MDEtNjIuNDAyIDYyLjM5OCA2MCA2MCA2Mi4zOTgtNjIuMzk4IDM2IDM2Yy00My4xOTkgNTUuMTk5LTY5LjYwMiAxMjMuNi02OS42MDIgMTk5LjIgMCAxNjIgMTIxLjIgMjk2LjQgMjc3LjIgMzE2Ljh2MTIzLjZoLTEzNS42djg0aDEzNi44djExMC40aDg0di0xMTAuNGgxMzYuOHYtODRoLTEzOHYtMTI0LjhjMTU2LTIwLjM5OCAyNzcuMi0xNTQuOCAyNzcuMi0zMTYuOCAwLTc4LTI3LjYwMi0xNTAtNzQuMzk4LTIwNS4ybDE2NS42LTE2NS42djE1NC44aDg0bC0wLjAwMzkwNi0yNTYuOGMxLjIwMzEtMTYuODAxLTkuNTk3Ny0zMS4xOTktMjUuMTk5LTM4LjM5OHptLTQ2OS4yIDc0Ni40Yy0xMjkuNiAwLTIzNS4yLTEwNS42LTIzNS4yLTIzNS4yIDAtMTI5LjYgMTA1LjYtMjM1LjIgMjM1LjItMjM1LjIgMTI5LjYgMCAyMzUuMiAxMDUuNiAyMzUuMiAyMzUuMiAxLjE5OTIgMTI5LjYtMTA0LjQgMjM1LjItMjM1LjIgMjM1LjJ6Ii8+Cjwvc3ZnPgo=&labelColor=F5A9B8&logoColor=white
+
+<!-- bio links -->
 [Jamie King]: https://jamieking.me
-[she/her]: https://10x.la/she
+[pronouns]: https://10x.la/she
 
 <!-- contributions -->
 [b-amex]: https://img.shields.io/badge/American%20Express-2E77BC.svg?logo=americanexpress&logoColor=white
@@ -183,6 +181,7 @@
 [pino]: https://getpino.io/
 
 <!-- social badges -->
+[b-about]: https://img.shields.io/badge/%20-jamieking.me-gray.svg?logo=aboutdotme&logoColor=white&labelColor=0872B4
 [b-email]: https://img.shields.io/badge/%20-hello@jamieking.me-gray.svg?logo=gmail&logoColor=white&labelColor=EA4335
 [b-twitter]: https://img.shields.io/badge/%20-@10xLaCroixDrnkr-gray.svg?logo=Twitter&logoColor=white&labelColor=1DA1F2
 [b-linkedin]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white
@@ -195,6 +194,7 @@
 [b-medium]: https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white
 
 <!-- social links -->
+[about]: https://jamieking.me
 [email]: mailto:hello@jamieking.me
 [twitter]: https://10x.la/twitter
 [linkedin]: https://10x.la/linkedin
