@@ -5,6 +5,10 @@
 ![American Express][b-role]
 [![she/her][b-pronouns]][pronouns]
 
+[![Currently working on One App][b-current]][current]
+
+
+
 ### Connect with me
 
 [![jamieking.me][b-about]][about]
@@ -96,15 +100,17 @@
 </div>
 
 <!-- bio badges -->
-[b-role]: https://img.shields.io/badge/%20-Staff%20Engineer-gray.svg?logo=americanexpress&logoColor=white&labelColor=2E77BC
+[b-role]: https://img.shields.io/badge/_-Staff_Engineer-gray.svg?logo=americanexpress&logoColor=white&labelColor=2E77BC
 [b-pronouns]: https://img.shields.io/badge/she/her-gray.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMTIwMHB0IiBoZWlnaHQ9IjEyMDBwdCIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTIwMCAxMjAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogPHBhdGggZD0ibTEwNjkuMiAzNC44MDFjLTQuODAwOC0yLjM5ODQtMTAuODAxLTMuNjAxNi0xNS42MDItMy42MDE2aC0yNTYuOHY4NGgxNTQuOGwtMTY4IDE2OGMtNTEuNjAyLTM2LTExNS4yLTU3LjYwMi0xODMuNi01Ny42MDItNzAuODAxIDAtMTM2LjggMjIuODAxLTE4OS42IDYyLjM5OGwtMzcuMTk5LTM1Ljk5NiA2Mi4zOTgtNjIuMzk4LTYwLTYwLTYxLjE5OSA2Mi4zOTgtNzYuODAxLTc2LjgwMWg5MHYtODRoLTE5MmMtNiAwLTEwLjgwMSAxLjE5OTItMTUuNjAyIDMuNjAxNi0xNS41OTggNy4xOTkyLTI2LjM5NSAyMS41OTgtMjYuMzk1IDM4LjM5OHYxOTJoODR2LTkwbDc2LjgwMSA3Ni44MDEtNjIuNDAyIDYyLjM5OCA2MCA2MCA2Mi4zOTgtNjIuMzk4IDM2IDM2Yy00My4xOTkgNTUuMTk5LTY5LjYwMiAxMjMuNi02OS42MDIgMTk5LjIgMCAxNjIgMTIxLjIgMjk2LjQgMjc3LjIgMzE2Ljh2MTIzLjZoLTEzNS42djg0aDEzNi44djExMC40aDg0di0xMTAuNGgxMzYuOHYtODRoLTEzOHYtMTI0LjhjMTU2LTIwLjM5OCAyNzcuMi0xNTQuOCAyNzcuMi0zMTYuOCAwLTc4LTI3LjYwMi0xNTAtNzQuMzk4LTIwNS4ybDE2NS42LTE2NS42djE1NC44aDg0bC0wLjAwMzkwNi0yNTYuOGMxLjIwMzEtMTYuODAxLTkuNTk3Ny0zMS4xOTktMjUuMTk5LTM4LjM5OHptLTQ2OS4yIDc0Ni40Yy0xMjkuNiAwLTIzNS4yLTEwNS42LTIzNS4yLTIzNS4yIDAtMTI5LjYgMTA1LjYtMjM1LjIgMjM1LjItMjM1LjIgMTI5LjYgMCAyMzUuMiAxMDUuNiAyMzUuMiAyMzUuMiAxLjE5OTIgMTI5LjYtMTA0LjQgMjM1LjItMjM1LjIgMjM1LjJ6Ii8+Cjwvc3ZnPgo=&labelColor=F5A9B8&logoColor=white
+[b-current]: https://img.shields.io/badge/Currently_working_on-One_App-fdb92d?logo=data:image/svg+xml;base64,PHN2ZyBpZD0iUHJvZHVjdF9JY29ucyIgZGF0YS1uYW1lPSJQcm9kdWN0IEljb25zIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNDQgMTQ0Ij48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6I2NjZDFkZTt9LmNscy0ye2ZpbGw6I2ZkYjkyZDt9LmNscy0ze2ZpbGw6IzAwMTc1YTt9LmNscy00e2ZpbGw6bm9uZTt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPk9BXzFfQXBwPC90aXRsZT48cmVjdCBjbGFzcz0iY2xzLTEiIHg9IjU1LjAzIiB5PSI1NS4wMyIgd2lkdGg9IjMzLjk0IiBoZWlnaHQ9IjMzLjk0IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMjkuODIgNzIpIHJvdGF0ZSgtNDUpIi8+PHBhdGggY2xhc3M9ImNscy0yIiBkPSJNOTYsNzIsNzIsOTYsNDgsNzIsMjQsNDgsNC4yNCw2Ny43NmE2LDYsMCwwLDAsMCw4LjQ5TDI0LDk2bDQzLjc2LDQzLjc2YTYsNiwwLDAsMCw4LjQ5LDBMMTIwLDk2WiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTEyMCw0OCw3Ni4yNCw0LjI0YTYsNiwwLDAsMC04LjQ5LDBMMjQsNDgsNDgsNzIsNzIsNDgsOTYsNzJsMjQsMjQsMTkuNzYtMTkuNzZhNiw2LDAsMCwwLDAtOC40OVoiLz48cmVjdCBjbGFzcz0iY2xzLTQiIHdpZHRoPSIxNDQiIGhlaWdodD0iMTQ0Ii8+PC9zdmc+
 
 <!-- bio links -->
 [Jamie King]: https://jamieking.me
 [pronouns]: https://10x.la/she
+[current]: https://github.com/americanexpress/one-app
 
 <!-- contributions -->
-[b-amex]: https://img.shields.io/badge/American%20Express-2E77BC.svg?logo=americanexpress&logoColor=white
+[b-amex]: https://img.shields.io/badge/American_Express-2E77BC.svg?logo=americanexpress&logoColor=white
 [gh-amex]: https://github.com/pulls?q=archived%3Afalse+author%3A10xLaCroixDrinker+org%3Aamericanexpress
 [gh-fastify]: https://github.com/pulls?q=archived%3Afalse+author%3A10xLaCroixDrinker+org%3Afastify
 [gh-pino]: https://github.com/pulls?q=archived%3Afalse+author%3A10xLaCroixDrinker+org%3Apinojs
@@ -117,34 +123,34 @@
 [b-reveal]: https://img.shields.io/badge/reveal.js-1A1626.svg?logo=revealdotjs&logoColor=F2E142
 [b-lerna]: https://img.shields.io/badge/Lerna-9333EA.svg?logo=lerna&logoColor=white
 [b-iterm2]: https://img.shields.io/badge/iTerm2-black?logo=iterm2
-[b-git]: https://img.shields.io/badge/git-%23F05033.svg?logo=git&logoColor=white
-[b-gh-actions]: https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?logo=githubactions&logoColor=white
-[b-express]: https://img.shields.io/badge/Express-%23404d59.svg?logo=express&logoColor=%2361DAFB
-[b-fastify]: https://img.shields.io/badge/Fastify-%23000000.svg?logo=fastify&logoColor=white
-[b-npm]: https://img.shields.io/badge/npm-%23CB3837.svg?logo=npm&logoColor=white
+[b-git]: https://img.shields.io/badge/git-F05033.svg?logo=git&logoColor=white
+[b-gh-actions]: https://img.shields.io/badge/GitHub_Actions-2671E5.svg?logo=githubactions&logoColor=white
+[b-express]: https://img.shields.io/badge/Express-404d59.svg?logo=express&logoColor=61DAFB
+[b-fastify]: https://img.shields.io/badge/Fastify-000000.svg?logo=fastify&logoColor=white
+[b-npm]: https://img.shields.io/badge/npm-CB3837.svg?logo=npm&logoColor=white
 [b-node]: https://img.shields.io/badge/Node.js-6DA55F?logo=node.js&logoColor=white
-[b-react]: https://img.shields.io/badge/React-%2320232a.svg?logo=react&logoColor=%2361DAFB
-[b-redux]: https://img.shields.io/badge/Redux-%23593d88.svg?logo=redux&logoColor=white
+[b-react]: https://img.shields.io/badge/React-20232a.svg?logo=react&logoColor=61DAFB
+[b-redux]: https://img.shields.io/badge/Redux-593d88.svg?logo=redux&logoColor=white
 [b-sass]: https://img.shields.io/badge/Sass-hotpink.svg?logo=sass&logoColor=white
 [b-otel]: https://img.shields.io/badge/OpenTelemetry-F5A800?logo=opentelemetry&logoColor=415CC7
-[b-vscode]: https://img.shields.io/badge/VS%20Code-2C2C31.svg?logo=visual-studio-code&logoColor=23A9F2
-[b-js]: https://img.shields.io/badge/JavaScript-%23323330.svg?logo=javascript&logoColor=%23F7DF1E
-[b-ts]: https://img.shields.io/badge/TypeScript-%23007ACC.svg?logo=typescript&logoColor=white
+[b-vscode]: https://img.shields.io/badge/VS_Code-2C2C31.svg?logo=visual-studio-code&logoColor=23A9F2
+[b-js]: https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E
+[b-ts]: https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white
 [b-macos]: https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0
 [b-babel]: https://img.shields.io/badge/Babel-F9DC3e?logo=babel&logoColor=black
-[b-docker]: https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white
+[b-docker]: https://img.shields.io/badge/Docker-0db7ed.svg?logo=docker&logoColor=white
 [b-eslint]: https://img.shields.io/badge/ESLint-ECECFD?logo=eslint&logoColor=4B32C3
 [b-grafana]: https://img.shields.io/badge/Grafana-black.svg?logo=grafana&logoColor=EE5435
 [b-postman]: https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white
 [b-prometheus]: https://img.shields.io/badge/Prometheus-E6522C?logo=Prometheus&logoColor=white
-[b-jest]: https://img.shields.io/badge/Jest-%23C21325?logo=jest&logoColor=white
-[b-testing-lib]: https://img.shields.io/badge/Testing%20Library-white?logo=testing-library&logoColor=E33332
+[b-jest]: https://img.shields.io/badge/Jest-C21325?logo=jest&logoColor=white
+[b-testing-lib]: https://img.shields.io/badge/Testing_Library-white?logo=testing-library&logoColor=E33332
 [b-webpack]: https://img.shields.io/badge/webpack-2b3a42.svg?logo=webpack&logoColor=84c7e8
 [b-nx]: https://img.shields.io/badge/Nx-143055?logo=nx&logoColor=white
 [b-commitlint]: https://img.shields.io/badge/commitlint-black?logo=commitlint&logoColor=white
 [b-docusaurus]: https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=white
-[b-zsh]: https://img.shields.io/badge/Oh%20My%20Zsh-black?logo=zsh&logoColor=white
-[b-pino]: https://img.shields.io/badge/🌲%20pino-f7f7f7
+[b-zsh]: https://img.shields.io/badge/Oh_My_Zsh-black?logo=zsh&logoColor=white
+[b-pino]: https://img.shields.io/badge/🌲_pino-f7f7f7
 
 <!-- tech stack links -->
 [drawio]: https://www.drawio.com/
@@ -181,15 +187,15 @@
 [pino]: https://getpino.io/
 
 <!-- social badges -->
-[b-about]: https://img.shields.io/badge/%20-jamieking.me-gray.svg?logo=aboutdotme&logoColor=white&labelColor=0872B4
-[b-email]: https://img.shields.io/badge/%20-hello@jamieking.me-gray.svg?logo=gmail&logoColor=white&labelColor=EA4335
-[b-twitter]: https://img.shields.io/badge/%20-@10xLaCroixDrnkr-gray.svg?logo=Twitter&logoColor=white&labelColor=1DA1F2
-[b-linkedin]: https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white
+[b-about]: https://img.shields.io/badge/_-jamieking.me-gray.svg?logo=aboutdotme&logoColor=white&labelColor=0872B4
+[b-email]: https://img.shields.io/badge/_-hello@jamieking.me-gray.svg?logo=gmail&logoColor=white&labelColor=EA4335
+[b-twitter]: https://img.shields.io/badge/_-@10xLaCroixDrnkr-gray.svg?logo=Twitter&logoColor=white&labelColor=1DA1F2
+[b-linkedin]: https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white
 [b-spotify]: https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white
 [b-goodreads]: https://img.shields.io/badge/Goodreads-F3F1EA?logo=goodreads&logoColor=372213
 [b-stackoverflow]: https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white
 [b-dribbble]: https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white
-[b-reddit]: https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white
+[b-reddit]: https://img.shields.io/badge/Reddit-FF4500.svg?logo=Reddit&logoColor=white
 [b-dev.to]: https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white
 [b-medium]: https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white
 
