@@ -36,7 +36,7 @@
 
 ### Recent Posts
 
-| <div align="center"> ✨ [Cleaner Unit Tests with Custom Matchers](https://10x.la/matchers) ✨ </div> |
+| <div style="float: left">✨</div><div align="center"> [Cleaner Unit Tests with Custom Matchers](https://10x.la/matchers) </div><div style="float: right">✨</div> |
 |:---|
 | Using custom matchers to avoid repetitive<br/>and ambiguous assertions.<br/>**Published** Jan 9, 2023 • _8 min read_ |
 | <div align="center"> 🔎 **[On the Importance of Commit Messages](https://10x.la/commits)** 🔎 </div> |
