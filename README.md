@@ -31,27 +31,13 @@
 
 ### [Recent Posts](https://10x.la/amex-blog)
 
-<div style="max-width: 400px">
-<div align="left">
-<a href="https://10x.la/matchers">
+| [Cleaner Unit Tests with Custom Matchers](https://10x.la/matchers) |
+|:---|
+| Using custom matchers to avoid repetitive<br/>and ambiguous assertions.<br/>**Published** Jan 9, 2023 • _8 min read_ |
 
-> **Cleaner Unit Tests with Custom Matchers**<br/>
-> Using custom matchers to avoid repetitive and ambiguous assertions.<br/>
-> **Published** Jan 9, 2023 • _8 min read_
-
-</a>
-</div>
-
-<div align="left">
-<a href="https://10x.la/commits">
-
-> **On the Importance of Commit Messages**<br/>
-> A little time now can save a lot down the road.<br/>
-> **Published** Dec 10, 2018 • _6 min read_
-
-</a>
-</div>
-</div>
+| [On the Importance of Commit Messages](https://10x.la/commits) |
+|:---|
+| A little time now can save a lot down the road.<br/>**Published** Dec 10, 2018 • _6 min read_ |
 
 ### Tech Stack
 
@@ -97,11 +83,11 @@
   />
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=10xLaCroixDrinker&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&show_icons=true&hide_title=true&theme=swift"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: light)"
   />
   <img src="https://github-readme-stats.vercel.app/api?username=10xLaCroixDrinker&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&show_icons=true&hide_title=true&theme=swift" alt="Jamie King's GitHub stats" />
 </picture>
-
+<br/><br/>
 <picture>
   <source
     srcset="https://github-profile-trophy.vercel.app/?username=10xlacroixdrinker&margin-w=15&margin-h=15&column=-1&theme=gruvbox"
@@ -109,7 +95,7 @@
   />
   <source
     srcset="https://github-profile-trophy.vercel.app/?username=10xlacroixdrinker&margin-w=15&margin-h=15&column=-1&theme=oldie"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+    media="(prefers-color-scheme: light)"
   />
   <img src="https://github-profile-trophy.vercel.app/?username=10xlacroixdrinker&margin-w=15&margin-h=15&column=-1&theme=oldie" alt="Trophies" />
 </picture>
