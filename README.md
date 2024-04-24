@@ -112,7 +112,7 @@
 
 <!-- bio links -->
 [pronouns]: https://10x.la/she
-[1stcommit]: https://github.com/10xLaCroixDrinker#js-contribution-activity?tab=overview&from=2012-05-01&to=2012-05-31#:~:text=1%20contribution%20in%20private%20repositories
+[1stcommit]: https://github.com/10xLaCroixDrinker?tab=overview&from=2012-05-01&to=2012-05-31#app
 [current]: https://github.com/americanexpress/one-app
 
 <!-- social badges -->
