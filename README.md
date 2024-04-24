@@ -90,12 +90,29 @@
 
 ### Stats
 
-![Jamie King's GitHub stats](https://github-readme-stats.vercel.app/api?username=10xLaCroixDrinker&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&show_icons=true&hide_title=true&theme=swift#gh-light-mode-only)
-![Jamie King's GitHub stats](https://github-readme-stats.vercel.app/api?username=10xLaCroixDrinker&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&show_icons=true&hide_title=true&theme=omni#gh-dark-mode-only)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=10xLaCroixDrinker&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&show_icons=true&hide_title=true&theme=omni"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=10xLaCroixDrinker&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&show_icons=true&hide_title=true&theme=swift"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=10xLaCroixDrinker&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&show_icons=true&hide_title=true&theme=swift" alt="Jamie King's GitHub stats" />
+</picture>
 
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=10xlacroixdrinker&margin-w=15&margin-h=15&column=-1&theme=oldie#gh-light-mode-only)
-![Trophies](https://github-profile-trophy.vercel.app/?username=10xlacroixdrinker&margin-w=15&margin-h=15&column=-1&theme=gruvbox#gh-dark-mode-only)
+<picture>
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=10xlacroixdrinker&margin-w=15&margin-h=15&column=-1&theme=gruvbox"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-profile-trophy.vercel.app/?username=10xlacroixdrinker&margin-w=15&margin-h=15&column=-1&theme=oldie"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-profile-trophy.vercel.app/?username=10xlacroixdrinker&margin-w=15&margin-h=15&column=-1&theme=oldie" alt="Trophies" />
+</picture>
 
 </div>
 
