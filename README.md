@@ -47,7 +47,7 @@
 <th>✨</th>
 </tr>
 <tr>
-<td colspan="3">
+<td colspan="3" vertical-align="middle">
 
 Using custom matchers to avoid repetitive and ambiguous assertions.
 
