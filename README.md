@@ -36,52 +36,11 @@
 
 ### Recent Posts
 
-<table>
-<tr>
-<th>✨</th>
-<th align="center" vertical-align="middle">
-      
-[Cleaner Unit Tests with Custom Matchers](https://10x.la/matchers)
-
-</th>
-<th>✨</th>
-</tr>
-<tr>
-<td colspan="3">
-
-Using custom matchers to avoid repetitive and ambiguous assertions.
-
-**Published** Jan 9, 2023 • _8 min read_
-
-</td>
-</tr>
-<tr>
-<th>🔎</th>
-<th align="center" vertical-align="middle">
-
-[On the Importance of Commit Messages](https://10x.la/commits)
-
-</th>
-<th>🔎</th>
-</tr>
-<tr>
-<td colspan="3">
-
-A little time now can save a lot down the road.
-
-**Published** Dec 10, 2018 • _6 min read_
-
-</td>
-</tr>
-</table>
-
-<!--
 | <div align="center"> ✨ [Cleaner Unit Tests with Custom Matchers](https://10x.la/matchers) ✨ </div> |
 |:---|
 | Using custom matchers to avoid repetitive<br/>and ambiguous assertions.<br/>**Published** Jan 9, 2023 • _8 min read_ |
 | <div align="center"> 🔎 **[On the Importance of Commit Messages](https://10x.la/commits)** 🔎 </div> |
 | A little time now can save a lot down the road.<br/>**Published** Dec 10, 2018 • _6 min read_ |
--->
 
 ### Tech Stack
 
