@@ -2,13 +2,11 @@
 
 # Hi 👋, I'm Jamie King
 
-![American Express: Staff Engnineer][b-role]
+[![American Express: Staff Engnineer][b-role]][linkedin]
 [![Pronouns: she/her][b-pronouns]][pronouns]
-![Years of Experience][b-experience]
+[![Years of Experience][b-experience]][1stcommit]
 
 [![Currently working on One App][b-current]][current]
-
-
 
 ### Connect with me
 
@@ -36,12 +34,12 @@
 [![OpenTelemetry contributions][b-otel]][gh-otel]
 [![pino contributions][b-pino]][gh-pino]
 
-### [Recent Posts](https://10x.la/amex-blog)
+### Recent Posts
 
-| ✨ [Cleaner Unit Tests with Custom Matchers](https://10x.la/matchers) |
+| ✨ [Cleaner Unit Tests with Custom Matchers](https://10x.la/matchers) ✨ |
 |:---|
 | Using custom matchers to avoid repetitive<br/>and ambiguous assertions.<br/>**Published** Jan 9, 2023 • _8 min read_ |
-| 🔎 **[On the Importance of Commit Messages](https://10x.la/commits)** |
+| 🔎 **[On the Importance of Commit Messages](https://10x.la/commits)** 🔎 |
 | A little time now can save a lot down the road.<br/>**Published** Dec 10, 2018 • _6 min read_ |
 
 ### Tech Stack
@@ -103,13 +101,39 @@
 <!-- bio badges -->
 [b-role]: https://img.shields.io/badge/-Staff_Engineer-gray.svg?logo=americanexpress&logoColor=white&labelColor=2E77BC
 [b-pronouns]: https://img.shields.io/badge/-she/her-gray.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMTIwMHB0IiBoZWlnaHQ9IjEyMDBwdCIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTIwMCAxMjAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogPHBhdGggZD0ibTEwNjkuMiAzNC44MDFjLTQuODAwOC0yLjM5ODQtMTAuODAxLTMuNjAxNi0xNS42MDItMy42MDE2aC0yNTYuOHY4NGgxNTQuOGwtMTY4IDE2OGMtNTEuNjAyLTM2LTExNS4yLTU3LjYwMi0xODMuNi01Ny42MDItNzAuODAxIDAtMTM2LjggMjIuODAxLTE4OS42IDYyLjM5OGwtMzcuMTk5LTM1Ljk5NiA2Mi4zOTgtNjIuMzk4LTYwLTYwLTYxLjE5OSA2Mi4zOTgtNzYuODAxLTc2LjgwMWg5MHYtODRoLTE5MmMtNiAwLTEwLjgwMSAxLjE5OTItMTUuNjAyIDMuNjAxNi0xNS41OTggNy4xOTkyLTI2LjM5NSAyMS41OTgtMjYuMzk1IDM4LjM5OHYxOTJoODR2LTkwbDc2LjgwMSA3Ni44MDEtNjIuNDAyIDYyLjM5OCA2MCA2MCA2Mi4zOTgtNjIuMzk4IDM2IDM2Yy00My4xOTkgNTUuMTk5LTY5LjYwMiAxMjMuNi02OS42MDIgMTk5LjIgMCAxNjIgMTIxLjIgMjk2LjQgMjc3LjIgMzE2Ljh2MTIzLjZoLTEzNS42djg0aDEzNi44djExMC40aDg0di0xMTAuNGgxMzYuOHYtODRoLTEzOHYtMTI0LjhjMTU2LTIwLjM5OCAyNzcuMi0xNTQuOCAyNzcuMi0zMTYuOCAwLTc4LTI3LjYwMi0xNTAtNzQuMzk4LTIwNS4ybDE2NS42LTE2NS42djE1NC44aDg0bC0wLjAwMzkwNi0yNTYuOGMxLjIwMzEtMTYuODAxLTkuNTk3Ny0zMS4xOTktMjUuMTk5LTM4LjM5OHptLTQ2OS4yIDc0Ni40Yy0xMjkuNiAwLTIzNS4yLTEwNS42LTIzNS4yLTIzNS4yIDAtMTI5LjYgMTA1LjYtMjM1LjIgMjM1LjItMjM1LjIgMTI5LjYgMCAyMzUuMiAxMDUuNiAyMzUuMiAyMzUuMiAxLjE5OTIgMTI5LjYtMTA0LjQgMjM1LjItMjM1LjIgMjM1LjJ6Ii8+Cjwvc3ZnPgo=&labelColor=F5A9B8&logoColor=white
+[b-experience]: https://img.shields.io/date/1338371470?label=&logo=htmx&logoColor=gray&color=gray&labelColor=9999FF
 [b-current]: https://img.shields.io/badge/Currently_working_on-One_App-fdb92d?logo=data:image/svg+xml;base64,PHN2ZyBpZD0iUHJvZHVjdF9JY29ucyIgZGF0YS1uYW1lPSJQcm9kdWN0IEljb25zIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNDQgMTQ0Ij48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6I2NjZDFkZTt9LmNscy0ye2ZpbGw6I2ZkYjkyZDt9LmNscy0ze2ZpbGw6IzAwMTc1YTt9LmNscy00e2ZpbGw6bm9uZTt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPk9BXzFfQXBwPC90aXRsZT48cmVjdCBjbGFzcz0iY2xzLTEiIHg9IjU1LjAzIiB5PSI1NS4wMyIgd2lkdGg9IjMzLjk0IiBoZWlnaHQ9IjMzLjk0IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMjkuODIgNzIpIHJvdGF0ZSgtNDUpIi8+PHBhdGggY2xhc3M9ImNscy0yIiBkPSJNOTYsNzIsNzIsOTYsNDgsNzIsMjQsNDgsNC4yNCw2Ny43NmE2LDYsMCwwLDAsMCw4LjQ5TDI0LDk2bDQzLjc2LDQzLjc2YTYsNiwwLDAsMCw4LjQ5LDBMMTIwLDk2WiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTEyMCw0OCw3Ni4yNCw0LjI0YTYsNiwwLDAsMC04LjQ5LDBMMjQsNDgsNDgsNzIsNzIsNDgsOTYsNzJsMjQsMjQsMTkuNzYtMTkuNzZhNiw2LDAsMCwwLDAtOC40OVoiLz48cmVjdCBjbGFzcz0iY2xzLTQiIHdpZHRoPSIxNDQiIGhlaWdodD0iMTQ0Ii8+PC9zdmc+
-[b-experience]: https://img.shields.io/date/1336211470?label=&logo=htmx&logoColor=gray&color=gray&labelColor=9999FF
 
 <!-- bio links -->
-[Jamie King]: https://jamieking.me
 [pronouns]: https://10x.la/she
 [current]: https://github.com/americanexpress/one-app
+[1stcommit]: https://github.com/10xLaCroixDrinker?tab=overview&from=2012-05-01&to=2012-05-31#:~:text=1%20contribution%20in%20private%20repositories
+
+<!-- social badges -->
+[b-about]: https://img.shields.io/badge/_-jamieking.me-gray.svg?logo=aboutdotme&logoColor=white&labelColor=0872B4
+[b-email]: https://img.shields.io/badge/_-hello@jamieking.me-gray.svg?logo=gmail&logoColor=white&labelColor=EA4335
+[b-twitter]: https://img.shields.io/badge/_-@10xLaCroixDrnkr-gray.svg?logo=Twitter&logoColor=white&labelColor=1DA1F2
+[b-linkedin]: https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white
+[b-spotify]: https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white
+[b-goodreads]: https://img.shields.io/badge/Goodreads-F3F1EA?logo=goodreads&logoColor=372213
+[b-stackoverflow]: https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white
+[b-dribbble]: https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white
+[b-reddit]: https://img.shields.io/badge/Reddit-FF4500.svg?logo=Reddit&logoColor=white
+[b-dev.to]: https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white
+[b-medium]: https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white
+
+<!-- social links -->
+[about]: https://jamieking.me
+[email]: mailto:hello@jamieking.me
+[twitter]: https://10x.la/twitter
+[linkedin]: https://10x.la/linkedin
+[stackoverflow]: https://10x.la/stackoverflow
+[spotify]: https://10x.la/spotify
+[dribbble]: https://10x.la/dribbble
+[reddit]: https://10x.la/reddit
+[dev.to]: https://10x.la/dev
+[medium]: https://10x.la/blog
+[goodreads]: https://10x.la/goodreads
 
 <!-- contributions -->
 [b-amex]: https://img.shields.io/badge/American_Express-2E77BC.svg?logo=americanexpress&logoColor=white
@@ -187,29 +211,3 @@
 [docusaurus]: https://docusaurus.io/
 [zsh]: https://ohmyz.sh/
 [pino]: https://getpino.io/
-
-<!-- social badges -->
-[b-about]: https://img.shields.io/badge/_-jamieking.me-gray.svg?logo=aboutdotme&logoColor=white&labelColor=0872B4
-[b-email]: https://img.shields.io/badge/_-hello@jamieking.me-gray.svg?logo=gmail&logoColor=white&labelColor=EA4335
-[b-twitter]: https://img.shields.io/badge/_-@10xLaCroixDrnkr-gray.svg?logo=Twitter&logoColor=white&labelColor=1DA1F2
-[b-linkedin]: https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white
-[b-spotify]: https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white
-[b-goodreads]: https://img.shields.io/badge/Goodreads-F3F1EA?logo=goodreads&logoColor=372213
-[b-stackoverflow]: https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white
-[b-dribbble]: https://img.shields.io/badge/Dribbble-EA4C89?logo=dribbble&logoColor=white
-[b-reddit]: https://img.shields.io/badge/Reddit-FF4500.svg?logo=Reddit&logoColor=white
-[b-dev.to]: https://img.shields.io/badge/dev.to-0A0A0A?logo=dev.to&logoColor=white
-[b-medium]: https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white
-
-<!-- social links -->
-[about]: https://jamieking.me
-[email]: mailto:hello@jamieking.me
-[twitter]: https://10x.la/twitter
-[linkedin]: https://10x.la/linkedin
-[stackoverflow]: https://10x.la/stackoverflow
-[spotify]: https://10x.la/spotify
-[dribbble]: https://10x.la/dribbble
-[reddit]: https://10x.la/reddit
-[dev.to]: https://10x.la/dev
-[medium]: https://10x.la/blog
-[goodreads]: https://10x.la/goodreads
