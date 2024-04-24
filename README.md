@@ -112,7 +112,7 @@
 
 <!-- bio links -->
 [pronouns]: https://10x.la/she
-[1stcommit]: https://github.com/10xLaCroixDrinker?tab=overview&from=2012-05-01&to=2012-05-31#app
+[1stcommit]: https://github.com/10xLaCroixDrinker?tab=overview&from=2012-05-01&to=2012-05-31
 [current]: https://github.com/americanexpress/one-app
 
 <!-- social badges -->
