@@ -4,11 +4,11 @@
 
 [![American Express: Staff Engnineer][b-role]][linkedin]
 [![Pronouns: she/her][b-pronouns]][pronouns]
-[![Years of Experience][b-experience]][1stcommit]
+[![Years of Experience][b-1stcommit]][1stcommit]
 
 [![Currently working on One App][b-current]][current]
 
-### Connect with me
+### Connect with Me
 
 [![jamieking.me][b-about]][about]
 [![Email hello@jamieking.me][b-email]][email]
@@ -29,8 +29,8 @@
 
 [![American Express contributions][b-amex]][gh-amex]
 [![Fastify contributions][b-fastify]][gh-fastify]
-[![npm contributions][b-npm]][gh-npm]
 [![Node.js contributions][b-node]][gh-node]
+[![npm contributions][b-npm]][gh-npm]
 [![OpenTelemetry contributions][b-otel]][gh-otel]
 [![pino contributions][b-pino]][gh-pino]
 
@@ -79,8 +79,8 @@
 
 ### Stats
 
-[![Jamie King's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=10xLaCroixDrinker&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&show_icons=true&hide_title=true&theme=omni#gh-dark-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Jamie King's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=10xLaCroixDrinker&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&show_icons=true&hide_title=true&theme=swift#gh-light-mode-only)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+[![Jamie King's GitHub stats-Dark][stats-dark]][dark-mode]
+[![Jamie King's GitHub stats-Light][stats-light]][light-mode]
 
 <br/>
 
@@ -98,16 +98,22 @@
 
 </div>
 
+<!-- stats -->
+[stats-dark]: https://github-readme-stats.vercel.app/api?username=10xLaCroixDrinker&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&show_icons=true&hide_title=true&theme=omni#gh-dark-mode-only
+[stats-light]: https://github-readme-stats.vercel.app/api?username=10xLaCroixDrinker&show=reviews,prs_merged,prs_merged_percentage&rank_icon=percentile&show_icons=true&hide_title=true&theme=swift#gh-light-mode-only
+[dark-mode]: https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only
+[light-mode]: https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only
+
 <!-- bio badges -->
 [b-role]: https://img.shields.io/badge/-Staff_Engineer-gray.svg?logo=americanexpress&logoColor=white&labelColor=2E77BC
 [b-pronouns]: https://img.shields.io/badge/-she/her-gray.svg?logo=data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0iVVRGLTgiPz4KPHN2ZyB3aWR0aD0iMTIwMHB0IiBoZWlnaHQ9IjEyMDBwdCIgdmVyc2lvbj0iMS4xIiB2aWV3Qm94PSIwIDAgMTIwMCAxMjAwIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogPHBhdGggZD0ibTEwNjkuMiAzNC44MDFjLTQuODAwOC0yLjM5ODQtMTAuODAxLTMuNjAxNi0xNS42MDItMy42MDE2aC0yNTYuOHY4NGgxNTQuOGwtMTY4IDE2OGMtNTEuNjAyLTM2LTExNS4yLTU3LjYwMi0xODMuNi01Ny42MDItNzAuODAxIDAtMTM2LjggMjIuODAxLTE4OS42IDYyLjM5OGwtMzcuMTk5LTM1Ljk5NiA2Mi4zOTgtNjIuMzk4LTYwLTYwLTYxLjE5OSA2Mi4zOTgtNzYuODAxLTc2LjgwMWg5MHYtODRoLTE5MmMtNiAwLTEwLjgwMSAxLjE5OTItMTUuNjAyIDMuNjAxNi0xNS41OTggNy4xOTkyLTI2LjM5NSAyMS41OTgtMjYuMzk1IDM4LjM5OHYxOTJoODR2LTkwbDc2LjgwMSA3Ni44MDEtNjIuNDAyIDYyLjM5OCA2MCA2MCA2Mi4zOTgtNjIuMzk4IDM2IDM2Yy00My4xOTkgNTUuMTk5LTY5LjYwMiAxMjMuNi02OS42MDIgMTk5LjIgMCAxNjIgMTIxLjIgMjk2LjQgMjc3LjIgMzE2Ljh2MTIzLjZoLTEzNS42djg0aDEzNi44djExMC40aDg0di0xMTAuNGgxMzYuOHYtODRoLTEzOHYtMTI0LjhjMTU2LTIwLjM5OCAyNzcuMi0xNTQuOCAyNzcuMi0zMTYuOCAwLTc4LTI3LjYwMi0xNTAtNzQuMzk4LTIwNS4ybDE2NS42LTE2NS42djE1NC44aDg0bC0wLjAwMzkwNi0yNTYuOGMxLjIwMzEtMTYuODAxLTkuNTk3Ny0zMS4xOTktMjUuMTk5LTM4LjM5OHptLTQ2OS4yIDc0Ni40Yy0xMjkuNiAwLTIzNS4yLTEwNS42LTIzNS4yLTIzNS4yIDAtMTI5LjYgMTA1LjYtMjM1LjIgMjM1LjItMjM1LjIgMTI5LjYgMCAyMzUuMiAxMDUuNiAyMzUuMiAyMzUuMiAxLjE5OTIgMTI5LjYtMTA0LjQgMjM1LjItMjM1LjIgMjM1LjJ6Ii8+Cjwvc3ZnPgo=&labelColor=F5A9B8&logoColor=white
-[b-experience]: https://img.shields.io/date/1338371470?label=&logo=htmx&logoColor=gray&color=gray&labelColor=9999FF
+[b-1stcommit]: https://img.shields.io/date/1338371470?label=&logo=htmx&logoColor=gray&color=gray&labelColor=9999FF
 [b-current]: https://img.shields.io/badge/Currently_working_on-One_App-fdb92d?logo=data:image/svg+xml;base64,PHN2ZyBpZD0iUHJvZHVjdF9JY29ucyIgZGF0YS1uYW1lPSJQcm9kdWN0IEljb25zIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxNDQgMTQ0Ij48ZGVmcz48c3R5bGU+LmNscy0xe2ZpbGw6I2NjZDFkZTt9LmNscy0ye2ZpbGw6I2ZkYjkyZDt9LmNscy0ze2ZpbGw6IzAwMTc1YTt9LmNscy00e2ZpbGw6bm9uZTt9PC9zdHlsZT48L2RlZnM+PHRpdGxlPk9BXzFfQXBwPC90aXRsZT48cmVjdCBjbGFzcz0iY2xzLTEiIHg9IjU1LjAzIiB5PSI1NS4wMyIgd2lkdGg9IjMzLjk0IiBoZWlnaHQ9IjMzLjk0IiB0cmFuc2Zvcm09InRyYW5zbGF0ZSgtMjkuODIgNzIpIHJvdGF0ZSgtNDUpIi8+PHBhdGggY2xhc3M9ImNscy0yIiBkPSJNOTYsNzIsNzIsOTYsNDgsNzIsMjQsNDgsNC4yNCw2Ny43NmE2LDYsMCwwLDAsMCw4LjQ5TDI0LDk2bDQzLjc2LDQzLjc2YTYsNiwwLDAsMCw4LjQ5LDBMMTIwLDk2WiIvPjxwYXRoIGNsYXNzPSJjbHMtMyIgZD0iTTEyMCw0OCw3Ni4yNCw0LjI0YTYsNiwwLDAsMC04LjQ5LDBMMjQsNDgsNDgsNzIsNzIsNDgsOTYsNzJsMjQsMjQsMTkuNzYtMTkuNzZhNiw2LDAsMCwwLDAtOC40OVoiLz48cmVjdCBjbGFzcz0iY2xzLTQiIHdpZHRoPSIxNDQiIGhlaWdodD0iMTQ0Ii8+PC9zdmc+&labelColor=ccd1de
 
 <!-- bio links -->
 [pronouns]: https://10x.la/she
+[1stcommit]: https://github.com/10xLaCroixDrinker#js-contribution-activity?tab=overview&from=2012-05-01&to=2012-05-31#:~:text=1%20contribution%20in%20private%20repositories
 [current]: https://github.com/americanexpress/one-app
-[1stcommit]: https://github.com/10xLaCroixDrinker?tab=overview&from=2012-05-01&to=2012-05-31#:~:text=1%20contribution%20in%20private%20repositories#js-contribution-activity
 
 <!-- social badges -->
 [b-about]: https://img.shields.io/badge/_-jamieking.me-gray.svg?logo=aboutdotme&logoColor=white&labelColor=0872B4
