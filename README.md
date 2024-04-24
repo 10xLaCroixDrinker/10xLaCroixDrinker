@@ -39,7 +39,7 @@
 <table>
 <tr>
 <th>✨</th>
-<th align="center">
+<th align="center" vertical-align="middle">
       
 [Cleaner Unit Tests with Custom Matchers](https://10x.la/matchers)
 
@@ -49,13 +49,15 @@
 <tr>
 <td colspan="3">
 
-Using custom matchers to avoid repetitive<br/>and ambiguous assertions.<br/>**Published** Jan 9, 2023 • _8 min read_
+Using custom matchers to avoid repetitive and ambiguous assertions.
+
+**Published** Jan 9, 2023 • _8 min read_
 
 </td>
 </tr>
 <tr>
 <th>🔎</th>
-<th align="center">
+<th align="center" vertical-align="middle">
 
 [On the Importance of Commit Messages](https://10x.la/commits)
 
@@ -65,7 +67,9 @@ Using custom matchers to avoid repetitive<br/>and ambiguous assertions.<br/>**Pu
 <tr>
 <td colspan="3">
 
-A little time now can save a lot down the road.<br/>**Published** Dec 10, 2018 • _6 min read_
+A little time now can save a lot down the road.
+
+**Published** Dec 10, 2018 • _6 min read_
 
 </td>
 </tr>
