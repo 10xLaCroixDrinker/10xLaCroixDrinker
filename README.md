@@ -7,8 +7,8 @@
 ### Connect with me
 
 [![Email hello@jamieking.me][b-email]][email]
-[![Twitter: @10xLaCroixDrnkr][b-twitter]][twitter]
-[![LinkedIn: @jking90][b-linkedin]][linkedin]<br />
+[![Twitter: @10xLaCroixDrnkr][b-twitter]][twitter]<br />
+[![LinkedIn: @jking90][b-linkedin]][linkedin]
 [![Spotify][b-spotify]][spotify]
 [![Goodreads][b-goodreads]][goodreads]
 
