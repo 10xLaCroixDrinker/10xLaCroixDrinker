@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi 👋, I'm Jamie King
+# Hi 👋, I'm Jamie King 👩🏼‍💻
 
 [![American Express: Staff Engnineer][b-role]][linkedin]
 [![Pronouns: she/her][b-pronouns]][pronouns]
