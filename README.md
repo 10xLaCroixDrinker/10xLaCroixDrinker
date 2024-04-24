@@ -47,11 +47,10 @@
 <th>✨</th>
 </tr>
 <tr>
-<td colspan="3" vertical-align="middle">
+<td colspan="3">
 
-Using custom matchers to avoid repetitive and ambiguous assertions.
-
-**Published** Jan 9, 2023 • _8 min read_
+- Using custom matchers to avoid repetitive and ambiguous assertions.
+- **Published** Jan 9, 2023 • _8 min read_
 
 </td>
 </tr>
@@ -67,9 +66,8 @@ Using custom matchers to avoid repetitive and ambiguous assertions.
 <tr>
 <td colspan="3">
 
-A little time now can save a lot down the road.
-
-**Published** Dec 10, 2018 • _6 min read_
+- A little time now can save a lot down the road.
+- **Published** Dec 10, 2018 • _6 min read_
 
 </td>
 </tr>
