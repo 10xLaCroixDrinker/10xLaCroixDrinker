@@ -107,7 +107,7 @@
 <!-- bio links -->
 [pronouns]: https://10x.la/she
 [current]: https://github.com/americanexpress/one-app
-[1stcommit]: https://github.com/10xLaCroixDrinker?tab=overview&from=2012-05-01&to=2012-05-31#:~:text=1%20contribution%20in%20private%20repositories
+[1stcommit]: https://github.com/10xLaCroixDrinker?tab=overview&from=2012-05-01&to=2012-05-31#:~:text=1%20contribution%20in%20private%20repositories#js-contribution-activity
 
 <!-- social badges -->
 [b-about]: https://img.shields.io/badge/_-jamieking.me-gray.svg?logo=aboutdotme&logoColor=white&labelColor=0872B4
