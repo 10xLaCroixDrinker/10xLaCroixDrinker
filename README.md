@@ -28,6 +28,7 @@
 ### Orgs Where I Contribute
 
 [![American Express contributions][b-amex]][gh-amex]
+[![Autotelic contributions][b-autotelic]][gh-autotelic]
 [![Fastify contributions][b-fastify]][gh-fastify]
 [![Node.js contributions][b-node]][gh-node]
 [![npm contributions][b-npm]][gh-npm]
@@ -154,6 +155,7 @@
 [gh-npm]: https://github.com/pulls?q=archived%3Afalse+author%3A10xLaCroixDrinker+org%3Anpm
 [gh-otel]: https://github.com/pulls?q=archived%3Afalse+author%3A10xLaCroixDrinker+org%3Aopen-telemetry
 [gh-simpleicons]: https://github.com/pulls?q=archived%3Afalse+author%3A10xLaCroixDrinker+org%3Asimple-icons
+[gh-autotelic]: https://github.com/pulls?q=archived%3Afalse+author%3A10xLaCroixDrinker+org%3Aautotelic
 
 <!-- tech stack badges -->
 [b-drawio]: https://img.shields.io/badge/draw.io-white.svg?logo=diagramsdotnet&logoColor=F08705&style=for-the-badge
@@ -190,6 +192,7 @@
 [b-pino]: https://img.shields.io/badge/🌲_pino-f7f7f7?style=for-the-badge
 [b-tap]: https://img.shields.io/badge/💿_TAP-e9e9e9?style=for-the-badge
 [b-simpleicons]: https://img.shields.io/badge/Simple_Icons-111111.svg?logo=simpleicons&logoColor=white&style=for-the-badge
+[b-autotelic]: https://img.shields.io/badge/Autotelic-7E40E6.svg?logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QXV0b3RlbGljPC90aXRsZT48cGF0aCBkPSJNNi4wNDIgNS45NDljLTIuNjkzLjI0Ny00LjczNiAyLjY5OS00LjczNiA2LjA1IDAgMy4zNTIgMi4wNDMgNS44MDMgNC43MzYgNi4wNSAyLjcyNS4yNTEgNS4wNTMtMS45ODIgNS4wNTMtNi4wNSAwLTQuMDY3LTIuMzMtNi4zLTUuMDUzLTYuMDV6bTE2LjY1MS0zLjg5NkwxNS42NTYgMHYyNGw3LjAzNi0yLjA1M1YyLjA1M1oiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white&style=for-the-badge
 
 <!-- tech stack links -->
 [drawio]: https://www.drawio.com/
