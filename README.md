@@ -33,6 +33,7 @@
 [![npm contributions][b-npm]][gh-npm]
 [![OpenTelemetry contributions][b-otel]][gh-otel]
 [![pino contributions][b-pino]][gh-pino]
+[![Simple Icons contributions][b-simpleicons]][gh-simpleicons]
 
 ### Recent Posts
 
@@ -152,6 +153,7 @@
 [gh-node]: https://github.com/pulls?q=archived%3Afalse+author%3A10xLaCroixDrinker+org%3Anodejs
 [gh-npm]: https://github.com/pulls?q=archived%3Afalse+author%3A10xLaCroixDrinker+org%3Anpm
 [gh-otel]: https://github.com/pulls?q=archived%3Afalse+author%3A10xLaCroixDrinker+org%3Aopen-telemetry
+[gh-simpleicons]: https://github.com/pulls?q=archived%3Afalse+author%3A10xLaCroixDrinker+org%3Asimple-icons
 
 <!-- tech stack badges -->
 [b-drawio]: https://img.shields.io/badge/draw.io-white.svg?logo=diagramsdotnet&logoColor=F08705&style=for-the-badge
@@ -171,7 +173,7 @@
 [b-vscode]: https://img.shields.io/badge/VS_Code-2C2C31.svg?logo=visual-studio-code&logoColor=23A9F2&style=for-the-badge
 [b-js]: https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E&style=for-the-badge
 [b-ts]: https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge
-[b-macos]: https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F0F0F0&style=for-the-badge
+[b-macos]: https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F5F5F7&style=for-the-badge
 [b-babel]: https://img.shields.io/badge/Babel-F9DC3e?logo=babel&logoColor=black&style=for-the-badge
 [b-docker]: https://img.shields.io/badge/Docker-0db7ed.svg?logo=docker&logoColor=white&style=for-the-badge
 [b-eslint]: https://img.shields.io/badge/ESLint-ECECFD?logo=eslint&logoColor=4B32C3&style=for-the-badge
@@ -187,6 +189,7 @@
 [b-zsh]: https://img.shields.io/badge/Oh_My_Zsh-black?logo=zsh&logoColor=white&style=for-the-badge
 [b-pino]: https://img.shields.io/badge/🌲_pino-f7f7f7?style=for-the-badge
 [b-tap]: https://img.shields.io/badge/💿_TAP-e9e9e9?style=for-the-badge
+[b-simpleicons]: https://img.shields.io/badge/Simple_Icons-111111.svg?logo=simpleicons&logoColor=white&style=for-the-badge
 
 <!-- tech stack links -->
 [drawio]: https://www.drawio.com/
