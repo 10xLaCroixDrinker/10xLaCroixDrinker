@@ -74,6 +74,7 @@
 [![Oh My Zsh][b-zsh]][zsh]
 [![OpenTelemetry][b-otel]][otel]
 [![pino][b-pino]][pino]
+[![tap][b-tap]][tap]
 [![Testing Library][b-testing-lib]][testing-lib]
 [![TypeScript][b-ts]][ts]
 [![VSCode][b-vscode]][vscode]
@@ -185,6 +186,7 @@
 [b-docusaurus]: https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=white&style=for-the-badge
 [b-zsh]: https://img.shields.io/badge/Oh_My_Zsh-black?logo=zsh&logoColor=white&style=for-the-badge
 [b-pino]: https://img.shields.io/badge/🌲_pino-f7f7f7?style=for-the-badge
+[b-tap]: https://img.shields.io/badge/💿_TAP-e9e9e9?style=for-the-badge
 
 <!-- tech stack links -->
 [drawio]: https://www.drawio.com/
@@ -219,3 +221,4 @@
 [docusaurus]: https://docusaurus.io/
 [zsh]: https://ohmyz.sh/
 [pino]: https://getpino.io/
+[tap]: https://node-tap.org/
