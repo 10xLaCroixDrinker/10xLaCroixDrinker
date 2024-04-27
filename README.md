@@ -27,14 +27,14 @@
 
 ### Orgs Where I Contribute
 
-[![American Express contributions][b-amex]][gh-amex]
-[![Autotelic contributions][b-autotelic]][gh-autotelic]
-[![Fastify contributions][b-fastify]][gh-fastify]
-[![Node.js contributions][b-node]][gh-node]
-[![npm contributions][b-npm]][gh-npm]
-[![OpenTelemetry contributions][b-otel]][gh-otel]
-[![pino contributions][b-pino]][gh-pino]
-[![Simple Icons contributions][b-simpleicons]][gh-simpleicons]
+[![American Express contributions][b-gh-amex]][gh-amex]
+[![Autocannon contributions][b-gh-autocannon]][gh-autocannon]
+[![Fastify contributions][b-gh-fastify]][gh-fastify]
+[![Node.js contributions][b-gh-node]][gh-node]
+[![npm contributions][b-gh-npm]][gh-npm]
+[![OpenTelemetry contributions][b-gh-otel]][gh-otel]
+[![pino contributions][b-gh-pino]][gh-pino]
+[![Simple Icons contributions][b-gh-simpleicons]][gh-simpleicons]
 
 ### Recent Posts
 
@@ -146,8 +146,20 @@
 [medium]: https://10x.la/blog
 [goodreads]: https://10x.la/goodreads
 
-<!-- contributions -->
-[b-amex]: https://img.shields.io/badge/American_Express-2E77BC.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NSIgaGVpZ2h0PSI0NSIgdmlld0JveD0iMCAwIDQ1IDQ1Ij48cGF0aCBkPSJNMCAwdjQ1aDQ1di03LjFoLTYuMmwtMi4zLTIuNy0yLjQgMi43SDE2LjVWMjMuNmgtNS44TDE4IDcuMWg3bDEuNyAzLjdWNy4xaDguOEwzNyAxMWwxLjQtMy45SDQ1VjBIMHptNDAuMiAyMy42bC0zLjYgMy45LTMuNi0zLjlIMTl2MTJoMTBWMzNoLTd2LTIuMWg2Ljh2LTIuNkgyMnYtMi4xaDd2LTIuNmw1LjYgNi01LjYgNmgzLjlsMy42LTMuOSAzLjYgMy45aDRsLTUuNi02IDUuNi02aC0zLjl6bTEuNCA2TDQ1IDMzdi02LjlsLTMuNCAzLjV6TTM5LjkgOS40bC0yLjMgNi4xLS42IDEuNy0uNi0xLjdMMzQgOS40aC01djEyaDNWMTJsLjYgMS42IDIuOSA3LjhoMi45bDIuOS03LjguNi0xLjZ2OS40SDQ1di0xMmgtNS4xem0tMjAuMyAwbC01LjMgMTJoMy41bC45LTIuM2g1LjhsLjkgMi4zSDI5bC01LjMtMTJoLTQuMXptMS40IDQuMWwuNi0xLjUuNiAxLjUgMS4yIDNoLTMuN2wxLjMtM3oiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4=&logoColor=white&style=for-the-badge
+<!-- contribution buttons -->
+[b-gh-amex]: https://img.shields.io/github/issues-search?query=archived%3Afalse%20author%3A10xLaCroixDrinker%20org%3Aamericanexpress%20&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NSIgaGVpZ2h0PSI0NSIgdmlld0JveD0iMCAwIDQ1IDQ1Ij48cGF0aCBkPSJNMCAwdjQ1aDQ1di03LjFoLTYuMmwtMi4zLTIuNy0yLjQgMi43SDE2LjVWMjMuNmgtNS44TDE4IDcuMWg3bDEuNyAzLjdWNy4xaDguOEwzNyAxMWwxLjQtMy45SDQ1VjBIMHptNDAuMiAyMy42bC0zLjYgMy45LTMuNi0zLjlIMTl2MTJoMTBWMzNoLTd2LTIuMWg2Ljh2LTIuNkgyMnYtMi4xaDd2LTIuNmw1LjYgNi01LjYgNmgzLjlsMy42LTMuOSAzLjYgMy45aDRsLTUuNi02IDUuNi02aC0zLjl6bTEuNCA2TDQ1IDMzdi02LjlsLTMuNCAzLjV6TTM5LjkgOS40bC0yLjMgNi4xLS42IDEuNy0uNi0xLjdMMzQgOS40aC01djEyaDNWMTJsLjYgMS42IDIuOSA3LjhoMi45bDIuOS03LjguNi0xLjZ2OS40SDQ1di0xMmgtNS4xem0tMjAuMyAwbC01LjMgMTJoMy41bC45LTIuM2g1LjhsLjkgMi4zSDI5bC01LjMtMTJoLTQuMXptMS40IDQuMWwuNi0xLjUuNiAxLjUgMS4yIDNoLTMuN2wxLjMtM3oiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4=&logoColor=&label=American%20Express&labelColor=2E77BC&color=gray
+[b-gh-fastify]: https://img.shields.io/github/issues-search?query=archived%3Afalse%20author%3A10xLaCroixDrinker%20org%3Afastify%20&style=for-the-badge&logo=fastify&logoColor=white&label=Fastify&labelColor=111111&color=gray
+[b-gh-node]: https://img.shields.io/github/issues-search?query=archived%3Afalse%20author%3A10xLaCroixDrinker%20org%3Anodejs&style=for-the-badge&logo=nodedotjs&logoColor=white&label=Node.js&labelColor=6DA55F&color=gray
+[b-gh-npm]: https://img.shields.io/github/issues-search?query=archived%3Afalse%20author%3A10xLaCroixDrinker%20org%3Anpm&style=for-the-badge&logo=npm&logoColor=white&label=npm&labelColor=CB3837&color=gray
+[b-gh-otel]: https://img.shields.io/github/issues-search?query=archived%3Afalse%20author%3A10xLaCroixDrinker%20org%3Aopen-telemetry&style=for-the-badge&logo=opentelemetry&logoColor=415CC7&label=OpenTelemetry&labelColor=F5A800&color=gray
+[b-gh-pino]: https://img.shields.io/github/issues-search?query=archived%3Afalse%20author%3A10xLaCroixDrinker%20org%3Apinojs%20&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+cGlubzwvdGl0bGU+PHBhdGggZmlsbD0iIzY4NzYzNCIgZD0ibTkuMjI1IDUuNTU1IDIuNzg5IDUuNDcyIDIuNzU2LTUuNTA1TDExLjk5OSAwTTEuOTc5IDIwLjEyM2gxMy43Njl2LS4wMzdMOC44NjIgNi4yOW0zLjUyNCA1LjUyMiA0LjEzMSA4LjMxMWg1LjUwNUwxNS4xMzcgNi4yOTFNNC41IDI0aDE0Ljg3bC0xLjU1NC0zLjE4OEg2LjA1NiIvPjwvc3ZnPg==&label=pino&labelColor=f7f7f7&color=gray
+[b-gh-pino]: https://img.shields.io/badge/pino-f7f7f7?logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+cGlubzwvdGl0bGU+PHBhdGggZmlsbD0iIzY4NzYzNCIgZD0ibTkuMjI1IDUuNTU1IDIuNzg5IDUuNDcyIDIuNzU2LTUuNTA1TDExLjk5OSAwTTEuOTc5IDIwLjEyM2gxMy43Njl2LS4wMzdMOC44NjIgNi4yOW0zLjUyNCA1LjUyMiA0LjEzMSA4LjMxMWg1LjUwNUwxNS4xMzcgNi4yOTFNNC41IDI0aDE0Ljg3bC0xLjU1NC0zLjE4OEg2LjA1NiIvPjwvc3ZnPg==&style=for-the-badge
+[b-gh-simpleicons]: https://img.shields.io/github/issues-search?query=archived%3Afalse%20author%3A10xLaCroixDrinker%20org%3Asimple-icons%20&style=for-the-badge&logo=simpleicons&logoColor=white&label=Simple%20Icons&labelColor=111111&color=gray
+[b-gh-autocannon]: https://img.shields.io/github/issues-search?query=archived%3Afalse%20author%3A10xLaCroixDrinker%20repo%3Amcollina%2Fautocannon%20&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QXV0b0Nhbm5vbjwvdGl0bGU+PHBhdGggZD0iTTE5LjI5MyAxOC4xMzFjLS4yNDUuMjc3LS40Ny41NDItLjcwOC43OTUtLjA4NS4wOTItLjE5Mi4wMzctLjI3Mi0uMDI3LS45LS43MTUtNy43ODYtNy4zNTgtMTIuMDE2LTExLjEyMmwuODYtLjkzN2ExMjEwLjA4NiAxMjEwLjA4NiAwIDAgMSAxMi4xMzYgMTEuMjkxWm0tLjggNC45NTRjLS40ODguMjQzLS45Ny40OC0xLjQ1LjcyLS4wNzQuMDM5LS4xMjYuMDI4LS4xODctLjAzLTIuMDkzLTEuOTIzLTcuNzI5LTcuMTk2LTExLjU2NC0xMC42OTJhLjUyMy41MjMgMCAwIDEtLjE3LS4zMjdjLS4xNTctMS4wODYtLjEwMi0yLjE1NC4yNy0zLjE5Ni4wNjYtLjE4LjEyNC0uMzY0LjE5NC0uNTcyLjI2Ny4yMzcuNTI1LjQ1Ni43NzMuNjg4QTE4MDEuMzQ2IDE4MDEuMzQ2IDAgMCAwIDE5LjggMjIuMTU0bC4wNS4wNTctMS4zNTUuODc0ek04LjU5NSA2LjI4NGMtLjA0LS4wMzYtLjA4My0uMDcxLS4xMi0uMTEyLS4wNjgtLjA4LS4wMzUtLjIzMS4wNjUtLjI2My43MDctLjIyOCAxLjQxNS0uNDUzIDIuMTIzLS42OC40MjcgMCAuODU2LS4wMTggMS4yODQuMDA1LjI1My4wMTUuNDYuMTc3LjY0Mi4zNDkgMy43MyAzLjU0IDcuNTEgNy4wMjIgMTEuMjg3IDEwLjUxLjEzNy4xMjcuMTYuMjQ1LjA3Mi40MzNhMjUyLjM3NyAyNTIuMzc3IDAgMCAxLTEuMzEgMi43OThBMTQwNi4yNjkgMTQwNi4zMzcgMCAwIDAgOC41OTQgNi4yODRaTTEyLjQ3Ny4wMzljNC42ODMuMDY4IDguOTg3IDIuNzEgMTEuMTM2IDcuMjk0LTEuMDIuNTQtMi4wMzggMS4wODItMy4wNjYgMS42MjgtLjk5NS0yLjI1Mi0yLjYxNS0zLjg2OC00Ljg3LTQuODQzLTEuNzItLjc0My0zLjQ5Mi0uODQ1LTUuMzEtLjQzNi00LjE5NC45NDMtNi42NiA0LjM4LTYuOTU4IDcuOTUtLjM1NyA0LjI5MSAyLjI4MiA3LjkyMiA2LjExNSA5LjI0Ni0uODQ4IDEuOTAxLS4yMi40OS0xLjI2OCAyLjgzNC0uMTIuMjcyLS4xOTMuMy0uNDY2LjE5M2ExMi4zNiAxMi4zNiAwIDAgMS0zLjgtMi4zOGMtMS4xMS0xLjAwOS0yLjAyNS0yLjE1OC0yLjY5Ni0zLjQ5N0MuNjYgMTYuNzY2LjIwNyAxNS40NDMuMDU0IDE0LjAzMWMtLjA4My0uNzYzLS4wNDgtMS41My0uMDQtMi4yOTYuMDM0LTIuNjI3Ljk4LTQuOTIyIDIuNTYyLTYuOTdDNC4xODIgMi42ODkgNi4yNiAxLjI3OSA4Ljc4Ni41MzVjMS4wMDQtLjMgMy4wMzUtLjUyNyAzLjY5LS40OTZaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white&label=AutoCannon&labelColor=3BA4B7&color=gray
+
+
+
+<!-- contribution links -->
 [gh-amex]: https://github.com/pulls?q=archived%3Afalse+author%3A10xLaCroixDrinker+org%3Aamericanexpress
 [gh-fastify]: https://github.com/pulls?q=archived%3Afalse+author%3A10xLaCroixDrinker+org%3Afastify
 [gh-pino]: https://github.com/pulls?q=archived%3Afalse+author%3A10xLaCroixDrinker+org%3Apinojs
@@ -155,7 +167,7 @@
 [gh-npm]: https://github.com/pulls?q=archived%3Afalse+author%3A10xLaCroixDrinker+org%3Anpm
 [gh-otel]: https://github.com/pulls?q=archived%3Afalse+author%3A10xLaCroixDrinker+org%3Aopen-telemetry
 [gh-simpleicons]: https://github.com/pulls?q=archived%3Afalse+author%3A10xLaCroixDrinker+org%3Asimple-icons
-[gh-autotelic]: https://github.com/pulls?q=archived%3Afalse+author%3A10xLaCroixDrinker+org%3Aautotelic
+[gh-autocannon]: https://github.com/pulls?q=archived%3Afalse+author%3A10xLaCroixDrinker+repo%3Amcollina%2Fautocannon
 
 <!-- tech stack badges -->
 [b-drawio]: https://img.shields.io/badge/draw.io-white.svg?logo=diagramsdotnet&logoColor=F08705&style=for-the-badge
@@ -191,8 +203,7 @@
 [b-zsh]: https://img.shields.io/badge/Oh_My_Zsh-black?logo=zsh&logoColor=white&style=for-the-badge
 [b-pino]: https://img.shields.io/badge/pino-f7f7f7?logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+cGlubzwvdGl0bGU+PHBhdGggZmlsbD0iIzY4NzYzNCIgZD0ibTkuMjI1IDUuNTU1IDIuNzg5IDUuNDcyIDIuNzU2LTUuNTA1TDExLjk5OSAwTTEuOTc5IDIwLjEyM2gxMy43Njl2LS4wMzdMOC44NjIgNi4yOW0zLjUyNCA1LjUyMiA0LjEzMSA4LjMxMWg1LjUwNUwxNS4xMzcgNi4yOTFNNC41IDI0aDE0Ljg3bC0xLjU1NC0zLjE4OEg2LjA1NiIvPjwvc3ZnPg==&style=for-the-badge
 [b-tap]: https://img.shields.io/badge/💿_TAP-e9e9e9?style=for-the-badge
-[b-simpleicons]: https://img.shields.io/badge/Simple_Icons-111111.svg?logo=simpleicons&logoColor=white&style=for-the-badge
-[b-autotelic]: https://img.shields.io/badge/Autotelic-7E40E6.svg?logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QXV0b3RlbGljPC90aXRsZT48cGF0aCBkPSJNNi4wNDIgNS45NDljLTIuNjkzLjI0Ny00LjczNiAyLjY5OS00LjczNiA2LjA1IDAgMy4zNTIgMi4wNDMgNS44MDMgNC43MzYgNi4wNSAyLjcyNS4yNTEgNS4wNTMtMS45ODIgNS4wNTMtNi4wNSAwLTQuMDY3LTIuMzMtNi4zLTUuMDUzLTYuMDV6bTE2LjY1MS0zLjg5NkwxNS42NTYgMHYyNGw3LjAzNi0yLjA1M1YyLjA1M1oiIGZpbGw9IndoaXRlIi8+PC9zdmc+&logoColor=white&style=for-the-badge
+
 
 <!-- tech stack links -->
 [drawio]: https://www.drawio.com/
