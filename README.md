@@ -12,7 +12,6 @@
 
 [![jamieking.me][b-about]][about]
 [![Email hello@jamieking.me][b-email]][email]
-[![Twitter: @10xLaCroixDrnkr][b-twitter]][twitter]<br />
 [![LinkedIn: @jking90][b-linkedin]][linkedin]
 [![Spotify][b-spotify]][spotify]
 [![Goodreads][b-goodreads]][goodreads]
