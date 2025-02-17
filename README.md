@@ -6,17 +6,18 @@
 [![Pronouns: she/her][b-pronouns]][pronouns]
 [![First GitHub Commit][b-1stcommit]][1stcommit]
 
-[![Currently working on One App][b-current]][current]
+<!--[![Currently working on One App][b-current]][current]-->
 
 ### Connect with Me
 
 [![jamieking.me][b-about]][about]
 [![Email hello@jamieking.me][b-email]][email]
 [![LinkedIn: @jking90][b-linkedin]][linkedin]
-[![Spotify][b-spotify]][spotify]
-[![Goodreads][b-goodreads]][goodreads]
+[![BlueSky: @jamieking.dev][b-bsky]][bsky]
 
 <!-- 
+[![Spotify][b-spotify]][spotify]
+[![Goodreads][b-goodreads]][goodreads]
 [![Stack Overflow: @10xlacroixdrinker][b-stackoverflow]][stackoverflow]
 [![Dribbble: @10xLaCroixDrinker][b-dribbble]][dribbble]
 [![Reddit: u/10xLaCroixDrinker][b-reddit]][reddit]
@@ -121,9 +122,9 @@
 
 <!-- social badges -->
 [b-about]: https://img.shields.io/badge/_-jamieking.me-gray.svg?logo=aboutdotme&logoColor=white&labelColor=0872B4&style=for-the-badge
-[b-email]: https://img.shields.io/badge/_-hello@jamieking.me-gray.svg?logo=gmail&logoColor=white&labelColor=EA4335&style=for-the-badge
-[b-twitter]: https://img.shields.io/badge/_-@10xLaCroixDrnkr-gray.svg?logo=Twitter&logoColor=white&labelColor=1DA1F2&style=for-the-badge
-[b-linkedin]: https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge
+[b-email]: https://img.shields.io/badge/_-hello@jamieking.me-gray.svg?logo=maildotru&logoColor=white&labelColor=EA4335&style=for-the-badge
+[b-bsky]: https://img.shields.io/badge/BlueSky-0285FF?style=for-the-badge&logo=bluesky&logoColor=white
+[b-linkedin]: https://img.shields.io/badge/LinkedIn-0077B5.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NDgiIGhlaWdodD0iNTEyIiB2aWV3Qm94PSIwIDAgNDQ4IDUxMiI+PHBhdGggZmlsbD0iI2ZmZiIgZD0iTTEwMC4yOCA0NDhINy40VjE0OC45aDkyLjg4ek01My43OSAxMDguMUMyNC4wOSAxMDguMSAwIDgzLjUgMCA1My44YTUzLjc5IDUzLjc5IDAgMCAxIDEwNy41OCAwYzAgMjkuNy0yNC4xIDU0LjMtNTMuNzkgNTQuM000NDcuOSA0NDhoLTkyLjY4VjMwMi40YzAtMzQuNy0uNy03OS4yLTQ4LjI5LTc5LjJjLTQ4LjI5IDAtNTUuNjkgMzcuNy01NS42OSA3Ni43VjQ0OGgtOTIuNzhWMTQ4LjloODkuMDh2NDAuOGgxLjNjMTIuNC0yMy41IDQyLjY5LTQ4LjMgODcuODgtNDguM2M5NCAwIDExMS4yOCA2MS45IDExMS4yOCAxNDIuM1Y0NDh6Ii8+PC9zdmc+&style=for-the-badge
 [b-spotify]: https://img.shields.io/badge/Spotify-1ED760?logo=spotify&logoColor=white&style=for-the-badge
 [b-goodreads]: https://img.shields.io/badge/Goodreads-F3F1EA?logo=goodreads&logoColor=372213&style=for-the-badge
 [b-stackoverflow]: https://img.shields.io/badge/Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge
@@ -135,15 +136,13 @@
 <!-- social links -->
 [about]: https://jamieking.me
 [email]: mailto:hello@jamieking.me
-[twitter]: https://10x.la/twitter
 [linkedin]: https://10x.la/linkedin
 [stackoverflow]: https://10x.la/stackoverflow
-[spotify]: https://10x.la/spotify
 [dribbble]: https://10x.la/dribbble
 [reddit]: https://10x.la/reddit
 [dev.to]: https://10x.la/dev
 [medium]: https://10x.la/blog
-[goodreads]: https://10x.la/goodreads
+[bsky]: https://bsky.app/profile/jamieking.dev
 
 <!-- contribution buttons -->
 [b-gh-amex]: https://img.shields.io/github/issues-search?query=archived%3Afalse%20author%3A10xLaCroixDrinker%20org%3Aamericanexpress%20&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSI0NSIgaGVpZ2h0PSI0NSIgdmlld0JveD0iMCAwIDQ1IDQ1Ij48cGF0aCBkPSJNMCAwdjQ1aDQ1di03LjFoLTYuMmwtMi4zLTIuNy0yLjQgMi43SDE2LjVWMjMuNmgtNS44TDE4IDcuMWg3bDEuNyAzLjdWNy4xaDguOEwzNyAxMWwxLjQtMy45SDQ1VjBIMHptNDAuMiAyMy42bC0zLjYgMy45LTMuNi0zLjlIMTl2MTJoMTBWMzNoLTd2LTIuMWg2Ljh2LTIuNkgyMnYtMi4xaDd2LTIuNmw1LjYgNi01LjYgNmgzLjlsMy42LTMuOSAzLjYgMy45aDRsLTUuNi02IDUuNi02aC0zLjl6bTEuNCA2TDQ1IDMzdi02LjlsLTMuNCAzLjV6TTM5LjkgOS40bC0yLjMgNi4xLS42IDEuNy0uNi0xLjdMMzQgOS40aC01djEyaDNWMTJsLjYgMS42IDIuOSA3LjhoMi45bDIuOS03LjguNi0xLjZ2OS40SDQ1di0xMmgtNS4xem0tMjAuMyAwbC01LjMgMTJoMy41bC45LTIuM2g1LjhsLjkgMi4zSDI5bC01LjMtMTJoLTQuMXptMS40IDQuMWwuNi0xLjUuNiAxLjUgMS4yIDNoLTMuN2wxLjMtM3oiIGZpbGw9IiNmZmZmZmYiLz48L3N2Zz4=&logoColor=&label=American%20Express&labelColor=2E77BC&color=gray
@@ -152,9 +151,9 @@
 [b-gh-npm]: https://img.shields.io/github/issues-search?query=archived%3Afalse%20author%3A10xLaCroixDrinker%20org%3Anpm&style=for-the-badge&logo=npm&logoColor=white&label=npm&labelColor=CB3837&color=gray
 [b-gh-otel]: https://img.shields.io/github/issues-search?query=archived%3Afalse%20author%3A10xLaCroixDrinker%20org%3Aopen-telemetry&style=for-the-badge&logo=opentelemetry&logoColor=415CC7&label=OpenTelemetry&labelColor=F5A800&color=gray
 [b-gh-pino]: https://img.shields.io/github/issues-search?query=archived%3Afalse%20author%3A10xLaCroixDrinker%20org%3Apinojs%20&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+cGlubzwvdGl0bGU+PHBhdGggZmlsbD0iIzY4NzYzNCIgZD0ibTkuMjI1IDUuNTU1IDIuNzg5IDUuNDcyIDIuNzU2LTUuNTA1TDExLjk5OSAwTTEuOTc5IDIwLjEyM2gxMy43Njl2LS4wMzdMOC44NjIgNi4yOW0zLjUyNCA1LjUyMiA0LjEzMSA4LjMxMWg1LjUwNUwxNS4xMzcgNi4yOTFNNC41IDI0aDE0Ljg3bC0xLjU1NC0zLjE4OEg2LjA1NiIvPjwvc3ZnPg==&label=pino&labelColor=f7f7f7&color=gray
-[b-gh-pino]: https://img.shields.io/badge/pino-f7f7f7?logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+cGlubzwvdGl0bGU+PHBhdGggZmlsbD0iIzY4NzYzNCIgZD0ibTkuMjI1IDUuNTU1IDIuNzg5IDUuNDcyIDIuNzU2LTUuNTA1TDExLjk5OSAwTTEuOTc5IDIwLjEyM2gxMy43Njl2LS4wMzdMOC44NjIgNi4yOW0zLjUyNCA1LjUyMiA0LjEzMSA4LjMxMWg1LjUwNUwxNS4xMzcgNi4yOTFNNC41IDI0aDE0Ljg3bC0xLjU1NC0zLjE4OEg2LjA1NiIvPjwvc3ZnPg==&style=for-the-badge
+[b-gh-pino]: https://img.shields.io/badge/pino-f7f7f7?logo=pino&style=for-the-badge
 [b-gh-simpleicons]: https://img.shields.io/github/issues-search?query=archived%3Afalse%20author%3A10xLaCroixDrinker%20org%3Asimple-icons%20&style=for-the-badge&logo=simpleicons&logoColor=white&label=Simple%20Icons&labelColor=111111&color=gray
-[b-gh-autocannon]: https://img.shields.io/github/issues-search?query=archived%3Afalse%20author%3A10xLaCroixDrinker%20repo%3Amcollina%2Fautocannon%20&style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+QXV0b0Nhbm5vbjwvdGl0bGU+PHBhdGggZD0iTTE5LjI5MyAxOC4xMzFjLS4yNDUuMjc3LS40Ny41NDItLjcwOC43OTUtLjA4NS4wOTItLjE5Mi4wMzctLjI3Mi0uMDI3LS45LS43MTUtNy43ODYtNy4zNTgtMTIuMDE2LTExLjEyMmwuODYtLjkzN2ExMjEwLjA4NiAxMjEwLjA4NiAwIDAgMSAxMi4xMzYgMTEuMjkxWm0tLjggNC45NTRjLS40ODguMjQzLS45Ny40OC0xLjQ1LjcyLS4wNzQuMDM5LS4xMjYuMDI4LS4xODctLjAzLTIuMDkzLTEuOTIzLTcuNzI5LTcuMTk2LTExLjU2NC0xMC42OTJhLjUyMy41MjMgMCAwIDEtLjE3LS4zMjdjLS4xNTctMS4wODYtLjEwMi0yLjE1NC4yNy0zLjE5Ni4wNjYtLjE4LjEyNC0uMzY0LjE5NC0uNTcyLjI2Ny4yMzcuNTI1LjQ1Ni43NzMuNjg4QTE4MDEuMzQ2IDE4MDEuMzQ2IDAgMCAwIDE5LjggMjIuMTU0bC4wNS4wNTctMS4zNTUuODc0ek04LjU5NSA2LjI4NGMtLjA0LS4wMzYtLjA4My0uMDcxLS4xMi0uMTEyLS4wNjgtLjA4LS4wMzUtLjIzMS4wNjUtLjI2My43MDctLjIyOCAxLjQxNS0uNDUzIDIuMTIzLS42OC40MjcgMCAuODU2LS4wMTggMS4yODQuMDA1LjI1My4wMTUuNDYuMTc3LjY0Mi4zNDkgMy43MyAzLjU0IDcuNTEgNy4wMjIgMTEuMjg3IDEwLjUxLjEzNy4xMjcuMTYuMjQ1LjA3Mi40MzNhMjUyLjM3NyAyNTIuMzc3IDAgMCAxLTEuMzEgMi43OThBMTQwNi4yNjkgMTQwNi4zMzcgMCAwIDAgOC41OTQgNi4yODRaTTEyLjQ3Ny4wMzljNC42ODMuMDY4IDguOTg3IDIuNzEgMTEuMTM2IDcuMjk0LTEuMDIuNTQtMi4wMzggMS4wODItMy4wNjYgMS42MjgtLjk5NS0yLjI1Mi0yLjYxNS0zLjg2OC00Ljg3LTQuODQzLTEuNzItLjc0My0zLjQ5Mi0uODQ1LTUuMzEtLjQzNi00LjE5NC45NDMtNi42NiA0LjM4LTYuOTU4IDcuOTUtLjM1NyA0LjI5MSAyLjI4MiA3LjkyMiA2LjExNSA5LjI0Ni0uODQ4IDEuOTAxLS4yMi40OS0xLjI2OCAyLjgzNC0uMTIuMjcyLS4xOTMuMy0uNDY2LjE5M2ExMi4zNiAxMi4zNiAwIDAgMS0zLjgtMi4zOGMtMS4xMS0xLjAwOS0yLjAyNS0yLjE1OC0yLjY5Ni0zLjQ5N0MuNjYgMTYuNzY2LjIwNyAxNS40NDMuMDU0IDE0LjAzMWMtLjA4My0uNzYzLS4wNDgtMS41My0uMDQtMi4yOTYuMDM0LTIuNjI3Ljk4LTQuOTIyIDIuNTYyLTYuOTdDNC4xODIgMi42ODkgNi4yNiAxLjI3OSA4Ljc4Ni41MzVjMS4wMDQtLjMgMy4wMzUtLjUyNyAzLjY5LS40OTZaIiBmaWxsPSJ3aGl0ZSIvPjwvc3ZnPg==&logoColor=white&label=AutoCannon&labelColor=3BA4B7&color=gray
+[b-gh-autocannon]: https://img.shields.io/github/issues-search?query=archived%3Afalse%20author%3A10xLaCroixDrinker%20repo%3Amcollina%2Fautocannon%20&style=for-the-badge&logo=autocannon&logoColor=white&label=AutoCannon&labelColor=3BA4B7&color=gray
 
 
 
@@ -183,7 +182,7 @@
 [b-redux]: https://img.shields.io/badge/Redux-593d88.svg?logo=redux&logoColor=white&style=for-the-badge
 [b-sass]: https://img.shields.io/badge/Sass-hotpink.svg?logo=sass&logoColor=white&style=for-the-badge
 [b-otel]: https://img.shields.io/badge/OpenTelemetry-F5A800?logo=opentelemetry&logoColor=415CC7&style=for-the-badge
-[b-vscode]: https://img.shields.io/badge/VS_Code-2C2C31.svg?logo=visual-studio-code&logoColor=23A9F2&style=for-the-badge
+[b-vscode]: https://img.shields.io/badge/VS_Code-2C2C31.svg?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHdpZHRoPSIzMiIgaGVpZ2h0PSIzMiIgdmlld0JveD0iMCAwIDMyIDMyIj48cGF0aCBmaWxsPSIjMjNBOUYyIiBkPSJNMzAuODY1IDMuNDQ4TDI0LjI4Mi4yODFhMS45OSAxLjk5IDAgMCAwLTIuMjc2LjM4NUw5LjM5NyAxMi4xNzFMMy45MDIgOC4wMDRhMS4zMyAxLjMzIDAgMCAwLTEuNzAzLjA3M0wuNDM5IDkuNjgxYTEuMzMgMS4zMyAwIDAgMC0uMDA1IDEuOTY5TDUuMiAxNS45OTlMLjQzNCAyMC4zNDhhMS4zMyAxLjMzIDAgMCAwIC4wMDUgMS45NjlsMS43NiAxLjYwNGExLjMzIDEuMzMgMCAwIDAgMS43MDMuMDczbDUuNDk1LTQuMTcybDEyLjYxNSAxMS41MWExLjk4IDEuOTggMCAwIDAgMi4yNzEuMzg1bDYuNTg5LTMuMTcyYTEuOTkgMS45OSAwIDAgMCAxLjEzLTEuODAyVjUuMjQ4YzAtLjc2Ni0uNDQzLTEuNDY5LTEuMTM1LTEuODAyem0tNi44NiAxOS44MThMMTQuNDMyIDE2bDkuNTczLTcuMjY2eiIvPjwvc3ZnPg==&style=for-the-badge
 [b-js]: https://img.shields.io/badge/JavaScript-323330.svg?logo=javascript&logoColor=F7DF1E&style=for-the-badge
 [b-ts]: https://img.shields.io/badge/TypeScript-007ACC.svg?logo=typescript&logoColor=white&style=for-the-badge
 [b-macos]: https://img.shields.io/badge/macOS-000000?logo=apple&logoColor=F5F5F7&style=for-the-badge
@@ -200,7 +199,7 @@
 [b-commitlint]: https://img.shields.io/badge/commitlint-black?logo=commitlint&logoColor=white&style=for-the-badge
 [b-docusaurus]: https://img.shields.io/badge/Docusaurus-3ECC5F?logo=docusaurus&logoColor=white&style=for-the-badge
 [b-zsh]: https://img.shields.io/badge/Oh_My_Zsh-black?logo=zsh&logoColor=white&style=for-the-badge
-[b-pino]: https://img.shields.io/badge/pino-f7f7f7?logo=data:image/svg+xml;base64,PHN2ZyByb2xlPSJpbWciIHZpZXdCb3g9IjAgMCAyNCAyNCIgeG1sbnM9Imh0dHA6Ly93d3cudzMub3JnLzIwMDAvc3ZnIj48dGl0bGU+cGlubzwvdGl0bGU+PHBhdGggZmlsbD0iIzY4NzYzNCIgZD0ibTkuMjI1IDUuNTU1IDIuNzg5IDUuNDcyIDIuNzU2LTUuNTA1TDExLjk5OSAwTTEuOTc5IDIwLjEyM2gxMy43Njl2LS4wMzdMOC44NjIgNi4yOW0zLjUyNCA1LjUyMiA0LjEzMSA4LjMxMWg1LjUwNUwxNS4xMzcgNi4yOTFNNC41IDI0aDE0Ljg3bC0xLjU1NC0zLjE4OEg2LjA1NiIvPjwvc3ZnPg==&style=for-the-badge
+[b-pino]: https://img.shields.io/badge/pino-f7f7f7?logo=pino&style=for-the-badge
 [b-tap]: https://img.shields.io/badge/💿_TAP-e9e9e9?style=for-the-badge
 
 
